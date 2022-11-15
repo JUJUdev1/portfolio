@@ -1,0 +1,83 @@
+{
+  "portfolio": [
+    {
+      "cover": "./images/Booki.png",
+      "title": "Booki",
+      "description": "HTML, CSS",
+      "url": "https://github.com/JUJUdev1/Booki",
+      "demo": "https://jujudev1.github.io/Booki/"
+    },
+    {
+      "cover": "./images/ohmyfood.png",
+      "title": "OhMyFood",
+      "description": "HTML, CSS, Sass",
+      "url": "https://github.com/JUJUdev1/ohmyfood",
+      "demo": "https://jujudev1.github.io/ohmyfood/"
+    },
+    {
+      "cover": "./images/lapanthere.png",
+      "title": "La Panthère",
+      "description": "Seo, Lighthouse",
+      "url": "https://github.com/JUJUdev1/La-Panthere",
+      "demo": "https://jujudev1.github.io/La-Panthere/"
+    },
+    {
+      "cover": "./images/piquantesaucedisplay.png",
+      "title": "Piquante",
+      "description": "MongoDB, Express/Js",
+      "url": "https://github.com/JUJUdev1/Piquante",
+      "img": [
+        "./images/piquantecreationsauce.png",
+        "./images/piquantesaucedisplay.png",
+        "./images/piquantelogin.png",
+        "./images/piquantedescription.png"
+      ],
+      "descriptif": [
+        "Afin de valider le 6éme projet de ma formation chez Openclassrooms, j’ai réalisé le backend d’une application d’évaluation de sauces piquantes. Cette partie est « cachée », l’utilisateur ne la voit jamais. Elle permet pourtant la bonne fonctionnalité de l’application.",
+        " L’application s’appelle “Piquante” et permet à ses utilisateurs d’ajouter leurs sauces gastronomiques.",
+        "Ils peuvent ‘liker’ ou ‘disliker’ les différentes sauces.",
+        "La partie backend de ce projet est développée en Node.js et express.",
+        " Pour la base de données j’utilise MongoDB.",
+        " Les enjeux du projet sont les suivants :",
+        " Ajuster le développement du backend pour qu’il fonctionne parfaitement avec le frontend",
+        " et assurer la sécurité des données utilisateurs et de l’application (RGPD  & OWAPS)."
+      ]
+    },
+    {
+      "cover": "./images/kanap.png",
+      "title": "Kanap",
+      "description": "Javascript, Api",
+      "url": "https://github.com/JUJUdev1/Kanap",
+      "img": [
+        "./images/kanapacceuil.png",
+        "./images/kanappageproduit.png",
+        "./images/kanappanier.png",
+        "./images/kanapform.png",
+        "./images/kanapcommandevalidé.png"
+      ],
+      "descriptif": [
+        "Réalisation d'un e-commerce à partir de pages statiques, d'un back et d'une API. Il était important de bien séparer et commenter le code. Ainsi que prendre l'habitude de bien découper ses fonctions. ",
+        "Relier le back au front, ",
+        "afficher dynamiquement des produit, ",
+        "ajouter, supprimer et modifier des produits liés à la gestion du panier, ",
+        "gérer le formulaire de commande (regex, validation, messages d'erreur), ",
+        "générer un numéro de commande une fois la commande terminée et ",
+        "créer un plan de test en listant les différentes fonctionnalités "
+      ]
+    },
+    {
+      "cover": "./images/Kasa.png",
+      "title": "Kasa",
+      "description": "React",
+      "url": "https://github.com/JUJUdev1/p7-opc",
+      "demo": "https://jujudev1.github.io/p7-opc/"
+    },
+    {
+      "cover": "./images/flk.jpeg",
+      "title": "FLK",
+      "description": "React, Tailwind, Sanity",
+      "url": "https://github.com/JUJUdev1/flk",
+      "demo": "https://super-torrone-dbd5bc.netlify.app/login"
+    }
+  ]
+}

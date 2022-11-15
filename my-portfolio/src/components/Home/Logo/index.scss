@@ -1,0 +1,33 @@
+.logo-container {
+  z-index: 0;
+  width: 400px;
+  height: 609px;
+  position: absolute;
+  top: 200px;
+  right: 15%;
+  bottom: 0;
+  left: auto;
+  margin: auto;
+
+  .solid-logo {
+    position: absolute;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: 0;
+    margin: auto;
+    width: 100%;
+    z-index: 1;
+    animation-name: logo-animation;
+    animation-duration: 4s;
+  }
+}
+
+@keyframes logo-animation {
+  from {
+    opacity: -10;
+  }
+  to {
+    opacity: 1;
+  }
+}
